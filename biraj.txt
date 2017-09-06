@@ -8,5 +8,5 @@ Here are few of the commands to get started with GitHub :
 5) git push					//pushes files to your online git repository 		(remote)
 6) git pull					//pulls files from online repository 			(remote)
 
-Before the step 5 you can send pull request to the owner of the repository via web.
+After the step 5 you can send pull request to the owner of the repository via web.
 Thank you.
